@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\Exercicios_Conta_Bancaria\\Exercicios_Conta_Bancaria.csproj",
-      "projectName": "Exercicios_Conta_Bancaria",
-      "projectPath": "C:\\Users\\LAB4\\Desktop\\Exercicios_Conta_Bancaria\\Exercicios_Conta_Bancaria.csproj",
+      "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\exemplo_acessor\\exemplo_acessor.csproj",
+      "projectName": "exemplo_acessor",
+      "projectPath": "C:\\Users\\LAB4\\Desktop\\exemplo_acessor\\exemplo_acessor.csproj",
       "packagesPath": "C:\\Users\\LAB4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAB4\\Desktop\\Exercicios_Conta_Bancaria\\obj\\",
+      "outputPath": "C:\\Users\\LAB4\\Desktop\\exemplo_acessor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

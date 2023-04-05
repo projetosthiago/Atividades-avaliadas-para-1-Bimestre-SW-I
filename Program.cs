@@ -1,18 +1,14 @@
-﻿namespace Exercicios_Conta_Bancaria;
+﻿namespace exemplo_acessor;
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Exercicios Conta Bancaria = ETECMCM  ");
-         Conta conta = new Conta();
-        conta.nomeCliente = "Thiago Menezes Teixeira";       
-        conta.limite = 500;
-       
-        conta.depositar(260);
-        conta.sacar(50);     
-        double saldo = conta.Consultasaldo();
+        Produto p1 = new Produto();
+        //p1.Preco = 20;
+        p1.AlteraPreco(50);
+        p1.AlteraNome("PARAFUSO");
+        p1.MostraDados();
 
-       Console.WriteLine("O seu saldo é:" + saldo);
-
+        //Console.WriteLine("Gaveta: " + p1.Preco);
     }
 }

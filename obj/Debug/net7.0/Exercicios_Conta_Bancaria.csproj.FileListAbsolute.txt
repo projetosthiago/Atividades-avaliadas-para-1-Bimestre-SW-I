@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\bin\Debug\net7.0\Exercicios_Conta_Bancaria.exe
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\bin\Debug\net7.0\Exercicios_Conta_Bancaria.deps.json
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\bin\Debug\net7.0\Exercicios_Conta_Bancaria.runtimeconfig.json
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\bin\Debug\net7.0\Exercicios_Conta_Bancaria.dll
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\bin\Debug\net7.0\Exercicios_Conta_Bancaria.pdb
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\Exercicios_Conta_Bancaria.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\Exercicios_Conta_Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\Exercicios_Conta_Bancaria.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\Exercicios_Conta_Bancaria.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\Exercicios_Conta_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\Exercicios_Conta_Bancaria.dll
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\refint\Exercicios_Conta_Bancaria.dll
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\Exercicios_Conta_Bancaria.pdb
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\Exercicios_Conta_Bancaria.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Exercicios_Conta_Bancaria\obj\Debug\net7.0\ref\Exercicios_Conta_Bancaria.dll
